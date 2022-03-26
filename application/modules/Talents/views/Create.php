@@ -98,7 +98,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label >Upload Picture</label>
-                                            <input required type="file" name="photo_profile" class="form-control" size="20">
+                                            <input type="file" name="photo_profile" class="form-control" size="20">
                                         </div>
                                     </div>
                                 </div>
