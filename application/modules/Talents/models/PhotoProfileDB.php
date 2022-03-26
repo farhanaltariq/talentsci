@@ -18,6 +18,10 @@ class PhotoProfileDB extends CI_Model {
     public function last_id() {
         return $this->db->insert_id();
     }
+    public function delete($id) {
+        $this->db->where('id', $id);
+        $this->db->delete('photo_profile');
+    }
 }
 
 ?>
