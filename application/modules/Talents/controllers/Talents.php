@@ -47,7 +47,6 @@ class Talents extends MX_Controller {
             $talent->photo_profile = $this->PhotoProfileDB->get_picture($talent->id_photo_profile);
             $talent->category = $this->CategoryDB->get_category($talent->id_category);
         }
-        $_SESSION['message'] = "Data Added";
         $this->load->view('Index', $data);
     }
 
@@ -59,11 +58,18 @@ class Talents extends MX_Controller {
             $talent->photo_profile = $this->PhotoProfileDB->get_picture($talent->id);
             $talent->category = $this->CategoryDB->get_category($talent->id_category);
         }
+        if(count($data['talents']) == 0){
+            $_SESSION['message'] = "No result found";
+        }
         $this->load->view('Index', $data);
     }
 
     public function details($id){
         $data['talent'] = $this->TalentsDB->get_details($id);
+        if(!$data['talent']){
+            show_404();
+            exit;
+        }
         $data['talent']->photo_profile = $this->PhotoProfileDB->get_picture($data['talent']->id_photo_profile);
         $data['talent']->category = $this->CategoryDB->get_category($data['talent']->id_category);
         $this->load->view('Details', $data);
@@ -71,12 +77,13 @@ class Talents extends MX_Controller {
 
     public function delete($id){
         $pict_name = $this->PhotoProfileDB->get_picture($this->TalentsDB->get_details($id)->id_photo_profile);
-        if($pict_name != null){
+        if($pict_name != null && $pict_name != "default.webp"){
             $path = './assets/talent_img/'.$pict_name;
             delete_files($path);
             unlink($path);
         }
-        $this->PhotoProfileDB->delete($this->TalentsDB->get_details($id)->id_photo_profile);
+        if($this->TalentsDB->get_details($id)->id_photo_profile != 1 && $this->TalentsDB->get_details($id)->id_photo_profile != null)
+            $this->PhotoProfileDB->delete($this->TalentsDB->get_details($id)->id_photo_profile);
         $this->TalentsDB->delete($id);
         $_SESSION['message'] = "Data Deleted";
         redirect('talents');
@@ -147,10 +154,11 @@ class Talents extends MX_Controller {
 
             $pictId = $this->TalentsDB->get_details($id)->id_photo_profile;
             // if talent already have photo profile
-            if($this->PhotoProfileDB->get_picture($pictId) != null){
+            if($this->PhotoProfileDB->get_picture($pictId) != null && $pictId != 1){
                 // if file exists in folder
-                $path = './assets/talent_img/'.$this->PhotoProfileDB->get_picture($pictId);
-                if(file_exists($path)){
+                $pict_name = $this->PhotoProfileDB->get_picture($pictId);
+                $path = './assets/talent_img/'.$pict_name;
+                if(file_exists($path) && $pict_name != "default.webp"){
                     delete_files($path);
                     unlink($path);
                 }
