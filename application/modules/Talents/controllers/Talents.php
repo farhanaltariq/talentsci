@@ -55,7 +55,7 @@ class Talents extends MX_Controller {
         $this->load->library('pagination');
         $data['talents'] = $this->TalentsDB->search($keyword);
         foreach ($data['talents'] as $talent) {
-            $talent->photo_profile = $this->PhotoProfileDB->get_picture($talent->id);
+            $talent->photo_profile = $this->PhotoProfileDB->get_picture($talent->id_photo_profile);
             $talent->category = $this->CategoryDB->get_category($talent->id_category);
         }
         if(count($data['talents']) == 0){

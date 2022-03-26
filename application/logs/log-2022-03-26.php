@@ -50720,3 +50720,1410 @@ INFO - 2022-03-26 15:51:36 --> Pagination Class Initialized
 DEBUG - 2022-03-26 15:51:36 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
 INFO - 2022-03-26 15:51:36 --> Final output sent to browser
 DEBUG - 2022-03-26 15:51:36 --> Total execution time: 0.0478
+INFO - 2022-03-26 15:53:04 --> Config Class Initialized
+INFO - 2022-03-26 15:53:04 --> Hooks Class Initialized
+DEBUG - 2022-03-26 15:53:04 --> UTF-8 Support Enabled
+INFO - 2022-03-26 15:53:04 --> Utf8 Class Initialized
+INFO - 2022-03-26 15:53:04 --> URI Class Initialized
+INFO - 2022-03-26 15:53:04 --> Router Class Initialized
+INFO - 2022-03-26 15:53:04 --> Output Class Initialized
+INFO - 2022-03-26 15:53:04 --> Security Class Initialized
+DEBUG - 2022-03-26 15:53:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 15:53:04 --> Input Class Initialized
+INFO - 2022-03-26 15:53:04 --> Language Class Initialized
+INFO - 2022-03-26 15:53:04 --> Language Class Initialized
+INFO - 2022-03-26 15:53:04 --> Config Class Initialized
+INFO - 2022-03-26 15:53:04 --> Loader Class Initialized
+INFO - 2022-03-26 15:53:04 --> Helper loaded: url_helper
+INFO - 2022-03-26 15:53:04 --> Database Driver Class Initialized
+INFO - 2022-03-26 15:53:04 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 15:53:04 --> Controller Class Initialized
+DEBUG - 2022-03-26 15:53:04 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 15:53:04 --> Helper loaded: form_helper
+INFO - 2022-03-26 15:53:04 --> Model Class Initialized
+DEBUG - 2022-03-26 15:53:04 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 15:53:04 --> Model Class Initialized
+DEBUG - 2022-03-26 15:53:04 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 15:53:04 --> Model Class Initialized
+DEBUG - 2022-03-26 15:53:04 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 15:53:04 --> Model Class Initialized
+INFO - 2022-03-26 15:53:04 --> Helper loaded: file_helper
+INFO - 2022-03-26 15:53:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 15:53:04 --> Pagination Class Initialized
+DEBUG - 2022-03-26 15:53:04 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 15:53:04 --> Final output sent to browser
+DEBUG - 2022-03-26 15:53:04 --> Total execution time: 0.0398
+INFO - 2022-03-26 15:53:05 --> Config Class Initialized
+INFO - 2022-03-26 15:53:05 --> Hooks Class Initialized
+DEBUG - 2022-03-26 15:53:05 --> UTF-8 Support Enabled
+INFO - 2022-03-26 15:53:05 --> Utf8 Class Initialized
+INFO - 2022-03-26 15:53:05 --> URI Class Initialized
+INFO - 2022-03-26 15:53:05 --> Router Class Initialized
+INFO - 2022-03-26 15:53:05 --> Output Class Initialized
+INFO - 2022-03-26 15:53:05 --> Security Class Initialized
+DEBUG - 2022-03-26 15:53:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 15:53:05 --> Input Class Initialized
+INFO - 2022-03-26 15:53:05 --> Language Class Initialized
+INFO - 2022-03-26 15:53:05 --> Language Class Initialized
+INFO - 2022-03-26 15:53:05 --> Config Class Initialized
+INFO - 2022-03-26 15:53:05 --> Loader Class Initialized
+INFO - 2022-03-26 15:53:05 --> Helper loaded: url_helper
+INFO - 2022-03-26 15:53:05 --> Database Driver Class Initialized
+INFO - 2022-03-26 15:53:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 15:53:05 --> Controller Class Initialized
+DEBUG - 2022-03-26 15:53:05 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 15:53:05 --> Helper loaded: form_helper
+INFO - 2022-03-26 15:53:05 --> Model Class Initialized
+DEBUG - 2022-03-26 15:53:05 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 15:53:05 --> Model Class Initialized
+DEBUG - 2022-03-26 15:53:05 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 15:53:05 --> Model Class Initialized
+DEBUG - 2022-03-26 15:53:05 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 15:53:05 --> Model Class Initialized
+INFO - 2022-03-26 15:53:05 --> Helper loaded: file_helper
+INFO - 2022-03-26 15:53:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 15:53:05 --> Pagination Class Initialized
+DEBUG - 2022-03-26 15:53:05 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 15:53:05 --> Final output sent to browser
+DEBUG - 2022-03-26 15:53:05 --> Total execution time: 0.0521
+INFO - 2022-03-26 15:53:07 --> Config Class Initialized
+INFO - 2022-03-26 15:53:07 --> Hooks Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> UTF-8 Support Enabled
+INFO - 2022-03-26 15:53:07 --> Utf8 Class Initialized
+INFO - 2022-03-26 15:53:07 --> URI Class Initialized
+INFO - 2022-03-26 15:53:07 --> Router Class Initialized
+INFO - 2022-03-26 15:53:07 --> Output Class Initialized
+INFO - 2022-03-26 15:53:07 --> Security Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 15:53:07 --> Input Class Initialized
+INFO - 2022-03-26 15:53:07 --> Language Class Initialized
+INFO - 2022-03-26 15:53:07 --> Language Class Initialized
+INFO - 2022-03-26 15:53:07 --> Config Class Initialized
+INFO - 2022-03-26 15:53:07 --> Loader Class Initialized
+INFO - 2022-03-26 15:53:07 --> Helper loaded: url_helper
+INFO - 2022-03-26 15:53:07 --> Database Driver Class Initialized
+INFO - 2022-03-26 15:53:07 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 15:53:07 --> Controller Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 15:53:07 --> Helper loaded: form_helper
+INFO - 2022-03-26 15:53:07 --> Model Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 15:53:07 --> Model Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 15:53:07 --> Model Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 15:53:07 --> Model Class Initialized
+INFO - 2022-03-26 15:53:07 --> Helper loaded: file_helper
+INFO - 2022-03-26 15:53:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 15:53:07 --> Pagination Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 15:53:07 --> Final output sent to browser
+DEBUG - 2022-03-26 15:53:07 --> Total execution time: 0.0482
+INFO - 2022-03-26 15:53:07 --> Config Class Initialized
+INFO - 2022-03-26 15:53:07 --> Hooks Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> UTF-8 Support Enabled
+INFO - 2022-03-26 15:53:07 --> Utf8 Class Initialized
+INFO - 2022-03-26 15:53:07 --> URI Class Initialized
+INFO - 2022-03-26 15:53:07 --> Router Class Initialized
+INFO - 2022-03-26 15:53:07 --> Output Class Initialized
+INFO - 2022-03-26 15:53:07 --> Security Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 15:53:07 --> Input Class Initialized
+INFO - 2022-03-26 15:53:07 --> Language Class Initialized
+INFO - 2022-03-26 15:53:07 --> Language Class Initialized
+INFO - 2022-03-26 15:53:07 --> Config Class Initialized
+INFO - 2022-03-26 15:53:07 --> Loader Class Initialized
+INFO - 2022-03-26 15:53:07 --> Helper loaded: url_helper
+INFO - 2022-03-26 15:53:07 --> Database Driver Class Initialized
+INFO - 2022-03-26 15:53:07 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 15:53:07 --> Controller Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 15:53:07 --> Helper loaded: form_helper
+INFO - 2022-03-26 15:53:07 --> Model Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 15:53:07 --> Model Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 15:53:07 --> Model Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 15:53:07 --> Model Class Initialized
+INFO - 2022-03-26 15:53:07 --> Helper loaded: file_helper
+INFO - 2022-03-26 15:53:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 15:53:07 --> Pagination Class Initialized
+DEBUG - 2022-03-26 15:53:07 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 15:53:07 --> Final output sent to browser
+DEBUG - 2022-03-26 15:53:07 --> Total execution time: 0.0458
+INFO - 2022-03-26 15:55:49 --> Config Class Initialized
+INFO - 2022-03-26 15:55:49 --> Hooks Class Initialized
+DEBUG - 2022-03-26 15:55:49 --> UTF-8 Support Enabled
+INFO - 2022-03-26 15:55:49 --> Utf8 Class Initialized
+INFO - 2022-03-26 15:55:49 --> URI Class Initialized
+INFO - 2022-03-26 15:55:49 --> Router Class Initialized
+INFO - 2022-03-26 15:55:49 --> Output Class Initialized
+INFO - 2022-03-26 15:55:49 --> Security Class Initialized
+DEBUG - 2022-03-26 15:55:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 15:55:49 --> Input Class Initialized
+INFO - 2022-03-26 15:55:49 --> Language Class Initialized
+INFO - 2022-03-26 15:55:49 --> Language Class Initialized
+INFO - 2022-03-26 15:55:49 --> Config Class Initialized
+INFO - 2022-03-26 15:55:49 --> Loader Class Initialized
+INFO - 2022-03-26 15:55:49 --> Helper loaded: url_helper
+INFO - 2022-03-26 15:55:49 --> Database Driver Class Initialized
+INFO - 2022-03-26 15:55:49 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 15:55:49 --> Controller Class Initialized
+DEBUG - 2022-03-26 15:55:49 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 15:55:49 --> Helper loaded: form_helper
+INFO - 2022-03-26 15:55:49 --> Model Class Initialized
+DEBUG - 2022-03-26 15:55:49 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 15:55:49 --> Model Class Initialized
+DEBUG - 2022-03-26 15:55:49 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 15:55:49 --> Model Class Initialized
+DEBUG - 2022-03-26 15:55:49 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 15:55:49 --> Model Class Initialized
+INFO - 2022-03-26 15:55:49 --> Helper loaded: file_helper
+INFO - 2022-03-26 15:55:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 15:55:49 --> Pagination Class Initialized
+DEBUG - 2022-03-26 15:55:49 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 15:55:49 --> Final output sent to browser
+DEBUG - 2022-03-26 15:55:49 --> Total execution time: 0.0367
+INFO - 2022-03-26 15:55:53 --> Config Class Initialized
+INFO - 2022-03-26 15:55:53 --> Hooks Class Initialized
+DEBUG - 2022-03-26 15:55:53 --> UTF-8 Support Enabled
+INFO - 2022-03-26 15:55:53 --> Utf8 Class Initialized
+INFO - 2022-03-26 15:55:53 --> URI Class Initialized
+DEBUG - 2022-03-26 15:55:53 --> No URI present. Default controller set.
+INFO - 2022-03-26 15:55:53 --> Router Class Initialized
+INFO - 2022-03-26 15:55:53 --> Output Class Initialized
+INFO - 2022-03-26 15:55:53 --> Security Class Initialized
+DEBUG - 2022-03-26 15:55:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 15:55:53 --> Input Class Initialized
+INFO - 2022-03-26 15:55:53 --> Language Class Initialized
+INFO - 2022-03-26 15:55:53 --> Language Class Initialized
+INFO - 2022-03-26 15:55:53 --> Config Class Initialized
+INFO - 2022-03-26 15:55:53 --> Loader Class Initialized
+INFO - 2022-03-26 15:55:53 --> Helper loaded: url_helper
+INFO - 2022-03-26 15:55:53 --> Database Driver Class Initialized
+INFO - 2022-03-26 15:55:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 15:55:53 --> Controller Class Initialized
+DEBUG - 2022-03-26 15:55:53 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 15:55:53 --> Helper loaded: form_helper
+INFO - 2022-03-26 15:55:53 --> Model Class Initialized
+DEBUG - 2022-03-26 15:55:53 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 15:55:53 --> Model Class Initialized
+DEBUG - 2022-03-26 15:55:53 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 15:55:53 --> Model Class Initialized
+DEBUG - 2022-03-26 15:55:53 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 15:55:53 --> Model Class Initialized
+INFO - 2022-03-26 15:55:53 --> Helper loaded: file_helper
+INFO - 2022-03-26 15:55:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 15:55:53 --> Pagination Class Initialized
+DEBUG - 2022-03-26 15:55:53 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 15:55:53 --> Final output sent to browser
+DEBUG - 2022-03-26 15:55:53 --> Total execution time: 0.0407
+INFO - 2022-03-26 15:55:59 --> Config Class Initialized
+INFO - 2022-03-26 15:55:59 --> Hooks Class Initialized
+DEBUG - 2022-03-26 15:55:59 --> UTF-8 Support Enabled
+INFO - 2022-03-26 15:55:59 --> Utf8 Class Initialized
+INFO - 2022-03-26 15:55:59 --> URI Class Initialized
+INFO - 2022-03-26 15:55:59 --> Router Class Initialized
+INFO - 2022-03-26 15:55:59 --> Output Class Initialized
+INFO - 2022-03-26 15:55:59 --> Security Class Initialized
+DEBUG - 2022-03-26 15:55:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 15:55:59 --> Input Class Initialized
+INFO - 2022-03-26 15:55:59 --> Language Class Initialized
+INFO - 2022-03-26 15:55:59 --> Language Class Initialized
+INFO - 2022-03-26 15:55:59 --> Config Class Initialized
+INFO - 2022-03-26 15:55:59 --> Loader Class Initialized
+INFO - 2022-03-26 15:55:59 --> Helper loaded: url_helper
+INFO - 2022-03-26 15:55:59 --> Database Driver Class Initialized
+INFO - 2022-03-26 15:55:59 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 15:55:59 --> Controller Class Initialized
+DEBUG - 2022-03-26 15:55:59 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 15:55:59 --> Helper loaded: form_helper
+INFO - 2022-03-26 15:55:59 --> Model Class Initialized
+DEBUG - 2022-03-26 15:55:59 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 15:55:59 --> Model Class Initialized
+DEBUG - 2022-03-26 15:55:59 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 15:55:59 --> Model Class Initialized
+DEBUG - 2022-03-26 15:55:59 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 15:55:59 --> Model Class Initialized
+INFO - 2022-03-26 15:55:59 --> Helper loaded: file_helper
+INFO - 2022-03-26 15:55:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 15:55:59 --> Pagination Class Initialized
+DEBUG - 2022-03-26 15:55:59 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 15:55:59 --> Final output sent to browser
+DEBUG - 2022-03-26 15:55:59 --> Total execution time: 0.0378
+INFO - 2022-03-26 15:56:26 --> Config Class Initialized
+INFO - 2022-03-26 15:56:26 --> Hooks Class Initialized
+DEBUG - 2022-03-26 15:56:26 --> UTF-8 Support Enabled
+INFO - 2022-03-26 15:56:26 --> Utf8 Class Initialized
+INFO - 2022-03-26 15:56:26 --> URI Class Initialized
+INFO - 2022-03-26 15:56:26 --> Router Class Initialized
+INFO - 2022-03-26 15:56:26 --> Output Class Initialized
+INFO - 2022-03-26 15:56:26 --> Security Class Initialized
+DEBUG - 2022-03-26 15:56:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 15:56:26 --> Input Class Initialized
+INFO - 2022-03-26 15:56:26 --> Language Class Initialized
+INFO - 2022-03-26 15:56:26 --> Language Class Initialized
+INFO - 2022-03-26 15:56:26 --> Config Class Initialized
+INFO - 2022-03-26 15:56:26 --> Loader Class Initialized
+INFO - 2022-03-26 15:56:26 --> Helper loaded: url_helper
+INFO - 2022-03-26 15:56:26 --> Database Driver Class Initialized
+INFO - 2022-03-26 15:56:26 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 15:56:26 --> Controller Class Initialized
+DEBUG - 2022-03-26 15:56:26 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 15:56:26 --> Helper loaded: form_helper
+INFO - 2022-03-26 15:56:26 --> Model Class Initialized
+DEBUG - 2022-03-26 15:56:26 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 15:56:26 --> Model Class Initialized
+DEBUG - 2022-03-26 15:56:26 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 15:56:26 --> Model Class Initialized
+DEBUG - 2022-03-26 15:56:26 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 15:56:26 --> Model Class Initialized
+INFO - 2022-03-26 15:56:26 --> Helper loaded: file_helper
+INFO - 2022-03-26 15:56:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 15:56:26 --> Pagination Class Initialized
+DEBUG - 2022-03-26 15:56:26 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 15:56:26 --> Final output sent to browser
+DEBUG - 2022-03-26 15:56:26 --> Total execution time: 0.0402
+INFO - 2022-03-26 16:15:06 --> Config Class Initialized
+INFO - 2022-03-26 16:15:06 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:15:06 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:15:06 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:15:06 --> URI Class Initialized
+INFO - 2022-03-26 16:15:06 --> Router Class Initialized
+INFO - 2022-03-26 16:15:06 --> Output Class Initialized
+INFO - 2022-03-26 16:15:06 --> Security Class Initialized
+DEBUG - 2022-03-26 16:15:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:15:06 --> Input Class Initialized
+INFO - 2022-03-26 16:15:06 --> Language Class Initialized
+INFO - 2022-03-26 16:15:06 --> Language Class Initialized
+INFO - 2022-03-26 16:15:06 --> Config Class Initialized
+INFO - 2022-03-26 16:15:06 --> Loader Class Initialized
+INFO - 2022-03-26 16:15:06 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:15:06 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:15:06 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:15:06 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:15:06 --> Faker MX_Controller Initialized
+INFO - 2022-03-26 16:15:06 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:15:06 --> Model Class Initialized
+DEBUG - 2022-03-26 16:15:06 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:15:06 --> Model Class Initialized
+DEBUG - 2022-03-26 16:15:06 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:15:06 --> Model Class Initialized
+INFO - 2022-03-26 16:15:07 --> Config Class Initialized
+INFO - 2022-03-26 16:15:07 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:15:07 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:15:07 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:15:07 --> URI Class Initialized
+INFO - 2022-03-26 16:15:07 --> Router Class Initialized
+INFO - 2022-03-26 16:15:07 --> Output Class Initialized
+INFO - 2022-03-26 16:15:07 --> Security Class Initialized
+DEBUG - 2022-03-26 16:15:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:15:07 --> Input Class Initialized
+INFO - 2022-03-26 16:15:07 --> Language Class Initialized
+INFO - 2022-03-26 16:15:07 --> Language Class Initialized
+INFO - 2022-03-26 16:15:07 --> Config Class Initialized
+INFO - 2022-03-26 16:15:07 --> Loader Class Initialized
+INFO - 2022-03-26 16:15:07 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:15:07 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:15:07 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:15:07 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:15:07 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:15:07 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:15:07 --> Model Class Initialized
+DEBUG - 2022-03-26 16:15:07 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:15:07 --> Model Class Initialized
+DEBUG - 2022-03-26 16:15:07 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:15:07 --> Model Class Initialized
+DEBUG - 2022-03-26 16:15:07 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:15:07 --> Model Class Initialized
+INFO - 2022-03-26 16:15:07 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:15:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:15:07 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:15:07 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:15:07 --> Final output sent to browser
+DEBUG - 2022-03-26 16:15:07 --> Total execution time: 0.0400
+INFO - 2022-03-26 16:15:10 --> Config Class Initialized
+INFO - 2022-03-26 16:15:10 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:15:10 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:15:10 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:15:10 --> URI Class Initialized
+INFO - 2022-03-26 16:15:10 --> Router Class Initialized
+INFO - 2022-03-26 16:15:10 --> Output Class Initialized
+INFO - 2022-03-26 16:15:10 --> Security Class Initialized
+DEBUG - 2022-03-26 16:15:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:15:10 --> Input Class Initialized
+INFO - 2022-03-26 16:15:10 --> Language Class Initialized
+INFO - 2022-03-26 16:15:10 --> Language Class Initialized
+INFO - 2022-03-26 16:15:10 --> Config Class Initialized
+INFO - 2022-03-26 16:15:10 --> Loader Class Initialized
+INFO - 2022-03-26 16:15:10 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:15:10 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:15:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:15:10 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:15:10 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:15:10 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:15:10 --> Model Class Initialized
+DEBUG - 2022-03-26 16:15:10 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:15:10 --> Model Class Initialized
+DEBUG - 2022-03-26 16:15:10 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:15:10 --> Model Class Initialized
+DEBUG - 2022-03-26 16:15:10 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:15:10 --> Model Class Initialized
+INFO - 2022-03-26 16:15:10 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:15:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:15:10 --> Pagination Class Initialized
+ERROR - 2022-03-26 16:15:10 --> Severity: error --> Exception: Call to undefined method CI_DB_mysqli_driver::result() D:\XAMPP\htdocs\code\talentsci\application\modules\Talents\models\TalentsDB.php 33
+ERROR - 2022-03-26 16:15:10 --> Severity: Error --> Uncaught TypeError: CI_Exceptions::show_exception(): Argument #1 ($exception) must be of type Exception, Error given, called in D:\XAMPP\htdocs\code\talentsci\system\core\Common.php on line 658 and defined in D:\XAMPP\htdocs\code\talentsci\system\core\Exceptions.php:190
+Stack trace:
+#0 D:\XAMPP\htdocs\code\talentsci\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown D:\XAMPP\htdocs\code\talentsci\system\core\Exceptions.php 190
+INFO - 2022-03-26 16:15:47 --> Config Class Initialized
+INFO - 2022-03-26 16:15:47 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:15:47 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:15:47 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:15:47 --> URI Class Initialized
+INFO - 2022-03-26 16:15:47 --> Router Class Initialized
+INFO - 2022-03-26 16:15:47 --> Output Class Initialized
+INFO - 2022-03-26 16:15:47 --> Security Class Initialized
+DEBUG - 2022-03-26 16:15:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:15:47 --> Input Class Initialized
+INFO - 2022-03-26 16:15:47 --> Language Class Initialized
+INFO - 2022-03-26 16:15:47 --> Language Class Initialized
+INFO - 2022-03-26 16:15:47 --> Config Class Initialized
+INFO - 2022-03-26 16:15:48 --> Loader Class Initialized
+INFO - 2022-03-26 16:15:48 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:15:48 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:15:48 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:15:48 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:15:48 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:15:48 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:15:48 --> Model Class Initialized
+DEBUG - 2022-03-26 16:15:48 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:15:48 --> Model Class Initialized
+DEBUG - 2022-03-26 16:15:48 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:15:48 --> Model Class Initialized
+DEBUG - 2022-03-26 16:15:48 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:15:48 --> Model Class Initialized
+INFO - 2022-03-26 16:15:48 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:15:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:15:48 --> Pagination Class Initialized
+ERROR - 2022-03-26 16:15:48 --> Severity: error --> Exception: Call to undefined method CI_DB_mysqli_driver::result() D:\XAMPP\htdocs\code\talentsci\application\modules\Talents\models\TalentsDB.php 33
+ERROR - 2022-03-26 16:15:48 --> Severity: Error --> Uncaught TypeError: CI_Exceptions::show_exception(): Argument #1 ($exception) must be of type Exception, Error given, called in D:\XAMPP\htdocs\code\talentsci\system\core\Common.php on line 658 and defined in D:\XAMPP\htdocs\code\talentsci\system\core\Exceptions.php:190
+Stack trace:
+#0 D:\XAMPP\htdocs\code\talentsci\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown D:\XAMPP\htdocs\code\talentsci\system\core\Exceptions.php 190
+INFO - 2022-03-26 16:16:42 --> Config Class Initialized
+INFO - 2022-03-26 16:16:42 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:16:42 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:16:42 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:16:42 --> URI Class Initialized
+INFO - 2022-03-26 16:16:42 --> Router Class Initialized
+INFO - 2022-03-26 16:16:42 --> Output Class Initialized
+INFO - 2022-03-26 16:16:42 --> Security Class Initialized
+DEBUG - 2022-03-26 16:16:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:16:42 --> Input Class Initialized
+INFO - 2022-03-26 16:16:42 --> Language Class Initialized
+INFO - 2022-03-26 16:16:42 --> Language Class Initialized
+INFO - 2022-03-26 16:16:42 --> Config Class Initialized
+INFO - 2022-03-26 16:16:42 --> Loader Class Initialized
+INFO - 2022-03-26 16:16:42 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:16:42 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:16:42 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:16:42 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:16:42 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:16:42 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:16:42 --> Model Class Initialized
+DEBUG - 2022-03-26 16:16:42 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:16:42 --> Model Class Initialized
+DEBUG - 2022-03-26 16:16:42 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:16:42 --> Model Class Initialized
+DEBUG - 2022-03-26 16:16:42 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:16:42 --> Model Class Initialized
+INFO - 2022-03-26 16:16:42 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:16:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:16:42 --> Pagination Class Initialized
+INFO - 2022-03-26 16:17:03 --> Config Class Initialized
+INFO - 2022-03-26 16:17:03 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:17:03 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:17:03 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:17:03 --> URI Class Initialized
+INFO - 2022-03-26 16:17:03 --> Router Class Initialized
+INFO - 2022-03-26 16:17:03 --> Output Class Initialized
+INFO - 2022-03-26 16:17:03 --> Security Class Initialized
+DEBUG - 2022-03-26 16:17:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:17:03 --> Input Class Initialized
+INFO - 2022-03-26 16:17:03 --> Language Class Initialized
+INFO - 2022-03-26 16:17:03 --> Language Class Initialized
+INFO - 2022-03-26 16:17:03 --> Config Class Initialized
+INFO - 2022-03-26 16:17:03 --> Loader Class Initialized
+INFO - 2022-03-26 16:17:03 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:17:03 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:17:03 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:17:03 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:17:03 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:17:03 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:17:03 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:03 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:17:03 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:03 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:17:03 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:03 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:17:03 --> Model Class Initialized
+INFO - 2022-03-26 16:17:03 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:17:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:17:03 --> Pagination Class Initialized
+INFO - 2022-03-26 16:17:17 --> Config Class Initialized
+INFO - 2022-03-26 16:17:17 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:17:17 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:17:17 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:17:17 --> URI Class Initialized
+INFO - 2022-03-26 16:17:17 --> Router Class Initialized
+INFO - 2022-03-26 16:17:17 --> Output Class Initialized
+INFO - 2022-03-26 16:17:17 --> Security Class Initialized
+DEBUG - 2022-03-26 16:17:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:17:17 --> Input Class Initialized
+INFO - 2022-03-26 16:17:17 --> Language Class Initialized
+INFO - 2022-03-26 16:17:17 --> Language Class Initialized
+INFO - 2022-03-26 16:17:17 --> Config Class Initialized
+INFO - 2022-03-26 16:17:17 --> Loader Class Initialized
+INFO - 2022-03-26 16:17:17 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:17:17 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:17:17 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:17:17 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:17:17 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:17:17 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:17:17 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:17 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:17:17 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:17 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:17:17 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:17 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:17:17 --> Model Class Initialized
+INFO - 2022-03-26 16:17:17 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:17:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:17:17 --> Pagination Class Initialized
+ERROR - 2022-03-26 16:17:17 --> Severity: Warning --> Undefined variable $query D:\XAMPP\htdocs\code\talentsci\application\modules\Talents\models\TalentsDB.php 33
+ERROR - 2022-03-26 16:17:17 --> Severity: error --> Exception: Call to a member function get() on null D:\XAMPP\htdocs\code\talentsci\application\modules\Talents\models\TalentsDB.php 33
+ERROR - 2022-03-26 16:17:17 --> Severity: Error --> Uncaught TypeError: CI_Exceptions::show_exception(): Argument #1 ($exception) must be of type Exception, Error given, called in D:\XAMPP\htdocs\code\talentsci\system\core\Common.php on line 658 and defined in D:\XAMPP\htdocs\code\talentsci\system\core\Exceptions.php:190
+Stack trace:
+#0 D:\XAMPP\htdocs\code\talentsci\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown D:\XAMPP\htdocs\code\talentsci\system\core\Exceptions.php 190
+INFO - 2022-03-26 16:17:26 --> Config Class Initialized
+INFO - 2022-03-26 16:17:26 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:17:26 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:17:26 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:17:26 --> URI Class Initialized
+INFO - 2022-03-26 16:17:26 --> Router Class Initialized
+INFO - 2022-03-26 16:17:26 --> Output Class Initialized
+INFO - 2022-03-26 16:17:26 --> Security Class Initialized
+DEBUG - 2022-03-26 16:17:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:17:26 --> Input Class Initialized
+INFO - 2022-03-26 16:17:26 --> Language Class Initialized
+INFO - 2022-03-26 16:17:26 --> Language Class Initialized
+INFO - 2022-03-26 16:17:26 --> Config Class Initialized
+INFO - 2022-03-26 16:17:26 --> Loader Class Initialized
+INFO - 2022-03-26 16:17:26 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:17:26 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:17:26 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:17:26 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:17:26 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:17:26 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:17:26 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:26 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:17:26 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:26 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:17:26 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:26 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:17:26 --> Model Class Initialized
+INFO - 2022-03-26 16:17:26 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:17:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:17:26 --> Pagination Class Initialized
+INFO - 2022-03-26 16:17:32 --> Config Class Initialized
+INFO - 2022-03-26 16:17:32 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:17:32 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:17:32 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:17:32 --> URI Class Initialized
+INFO - 2022-03-26 16:17:32 --> Router Class Initialized
+INFO - 2022-03-26 16:17:32 --> Output Class Initialized
+INFO - 2022-03-26 16:17:32 --> Security Class Initialized
+DEBUG - 2022-03-26 16:17:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:17:32 --> Input Class Initialized
+INFO - 2022-03-26 16:17:32 --> Language Class Initialized
+INFO - 2022-03-26 16:17:32 --> Language Class Initialized
+INFO - 2022-03-26 16:17:32 --> Config Class Initialized
+INFO - 2022-03-26 16:17:32 --> Loader Class Initialized
+INFO - 2022-03-26 16:17:32 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:17:32 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:17:32 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:17:32 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:17:32 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:17:32 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:17:32 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:32 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:17:32 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:32 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:17:32 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:32 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:17:32 --> Model Class Initialized
+INFO - 2022-03-26 16:17:32 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:17:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:17:32 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:17:32 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:17:32 --> Final output sent to browser
+DEBUG - 2022-03-26 16:17:32 --> Total execution time: 0.0416
+INFO - 2022-03-26 16:17:35 --> Config Class Initialized
+INFO - 2022-03-26 16:17:35 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:17:35 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:17:35 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:17:35 --> URI Class Initialized
+INFO - 2022-03-26 16:17:35 --> Router Class Initialized
+INFO - 2022-03-26 16:17:35 --> Output Class Initialized
+INFO - 2022-03-26 16:17:35 --> Security Class Initialized
+DEBUG - 2022-03-26 16:17:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:17:35 --> Input Class Initialized
+INFO - 2022-03-26 16:17:35 --> Language Class Initialized
+INFO - 2022-03-26 16:17:35 --> Language Class Initialized
+INFO - 2022-03-26 16:17:35 --> Config Class Initialized
+INFO - 2022-03-26 16:17:35 --> Loader Class Initialized
+INFO - 2022-03-26 16:17:35 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:17:35 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:17:35 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:17:35 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:17:35 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:17:35 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:17:35 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:35 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:17:35 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:35 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:17:35 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:35 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:17:35 --> Model Class Initialized
+INFO - 2022-03-26 16:17:35 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:17:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:17:35 --> Pagination Class Initialized
+INFO - 2022-03-26 16:17:48 --> Config Class Initialized
+INFO - 2022-03-26 16:17:48 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:17:48 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:17:48 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:17:48 --> URI Class Initialized
+INFO - 2022-03-26 16:17:48 --> Router Class Initialized
+INFO - 2022-03-26 16:17:48 --> Output Class Initialized
+INFO - 2022-03-26 16:17:48 --> Security Class Initialized
+DEBUG - 2022-03-26 16:17:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:17:48 --> Input Class Initialized
+INFO - 2022-03-26 16:17:48 --> Language Class Initialized
+INFO - 2022-03-26 16:17:48 --> Language Class Initialized
+INFO - 2022-03-26 16:17:48 --> Config Class Initialized
+INFO - 2022-03-26 16:17:48 --> Loader Class Initialized
+INFO - 2022-03-26 16:17:48 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:17:48 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:17:48 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:17:48 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:17:48 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:17:48 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:17:48 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:48 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:17:48 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:48 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:17:48 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:48 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:17:48 --> Model Class Initialized
+INFO - 2022-03-26 16:17:48 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:17:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:17:48 --> Pagination Class Initialized
+INFO - 2022-03-26 16:17:54 --> Config Class Initialized
+INFO - 2022-03-26 16:17:54 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:17:54 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:17:54 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:17:54 --> URI Class Initialized
+INFO - 2022-03-26 16:17:54 --> Router Class Initialized
+INFO - 2022-03-26 16:17:54 --> Output Class Initialized
+INFO - 2022-03-26 16:17:54 --> Security Class Initialized
+DEBUG - 2022-03-26 16:17:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:17:54 --> Input Class Initialized
+INFO - 2022-03-26 16:17:54 --> Language Class Initialized
+INFO - 2022-03-26 16:17:54 --> Language Class Initialized
+INFO - 2022-03-26 16:17:54 --> Config Class Initialized
+INFO - 2022-03-26 16:17:54 --> Loader Class Initialized
+INFO - 2022-03-26 16:17:54 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:17:54 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:17:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:17:54 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:17:54 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:17:54 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:17:54 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:54 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:17:54 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:54 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:17:54 --> Model Class Initialized
+DEBUG - 2022-03-26 16:17:54 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:17:54 --> Model Class Initialized
+INFO - 2022-03-26 16:17:54 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:17:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:17:54 --> Pagination Class Initialized
+INFO - 2022-03-26 16:18:27 --> Config Class Initialized
+INFO - 2022-03-26 16:18:27 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:18:27 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:18:27 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:18:27 --> URI Class Initialized
+INFO - 2022-03-26 16:18:27 --> Router Class Initialized
+INFO - 2022-03-26 16:18:27 --> Output Class Initialized
+INFO - 2022-03-26 16:18:27 --> Security Class Initialized
+DEBUG - 2022-03-26 16:18:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:18:27 --> Input Class Initialized
+INFO - 2022-03-26 16:18:27 --> Language Class Initialized
+INFO - 2022-03-26 16:18:27 --> Language Class Initialized
+INFO - 2022-03-26 16:18:27 --> Config Class Initialized
+INFO - 2022-03-26 16:18:27 --> Loader Class Initialized
+INFO - 2022-03-26 16:18:27 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:18:27 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:18:27 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:18:27 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:18:27 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:18:27 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:18:27 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:27 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:18:27 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:27 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:18:27 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:27 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:18:27 --> Model Class Initialized
+INFO - 2022-03-26 16:18:27 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:18:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:18:27 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:18:27 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:18:27 --> Final output sent to browser
+DEBUG - 2022-03-26 16:18:27 --> Total execution time: 0.0437
+INFO - 2022-03-26 16:18:30 --> Config Class Initialized
+INFO - 2022-03-26 16:18:30 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:18:30 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:18:30 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:18:30 --> URI Class Initialized
+INFO - 2022-03-26 16:18:30 --> Router Class Initialized
+INFO - 2022-03-26 16:18:30 --> Output Class Initialized
+INFO - 2022-03-26 16:18:30 --> Security Class Initialized
+DEBUG - 2022-03-26 16:18:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:18:30 --> Input Class Initialized
+INFO - 2022-03-26 16:18:30 --> Language Class Initialized
+INFO - 2022-03-26 16:18:30 --> Language Class Initialized
+INFO - 2022-03-26 16:18:30 --> Config Class Initialized
+INFO - 2022-03-26 16:18:30 --> Loader Class Initialized
+INFO - 2022-03-26 16:18:30 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:18:30 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:18:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:18:30 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:18:30 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:18:30 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:18:30 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:30 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:18:30 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:30 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:18:30 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:30 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:18:30 --> Model Class Initialized
+INFO - 2022-03-26 16:18:30 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:18:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:18:30 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:18:30 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:18:30 --> Final output sent to browser
+DEBUG - 2022-03-26 16:18:30 --> Total execution time: 0.0380
+INFO - 2022-03-26 16:18:32 --> Config Class Initialized
+INFO - 2022-03-26 16:18:32 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:18:32 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:18:32 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:18:32 --> URI Class Initialized
+INFO - 2022-03-26 16:18:32 --> Router Class Initialized
+INFO - 2022-03-26 16:18:32 --> Output Class Initialized
+INFO - 2022-03-26 16:18:32 --> Security Class Initialized
+DEBUG - 2022-03-26 16:18:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:18:32 --> Input Class Initialized
+INFO - 2022-03-26 16:18:32 --> Language Class Initialized
+INFO - 2022-03-26 16:18:32 --> Language Class Initialized
+INFO - 2022-03-26 16:18:32 --> Config Class Initialized
+INFO - 2022-03-26 16:18:32 --> Loader Class Initialized
+INFO - 2022-03-26 16:18:32 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:18:32 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:18:32 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:18:32 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:18:32 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:18:32 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:18:32 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:32 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:18:32 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:32 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:18:32 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:32 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:18:32 --> Model Class Initialized
+INFO - 2022-03-26 16:18:32 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:18:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:18:32 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:18:32 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:18:32 --> Final output sent to browser
+DEBUG - 2022-03-26 16:18:32 --> Total execution time: 0.0403
+INFO - 2022-03-26 16:18:34 --> Config Class Initialized
+INFO - 2022-03-26 16:18:34 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:18:34 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:18:34 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:18:34 --> URI Class Initialized
+DEBUG - 2022-03-26 16:18:34 --> No URI present. Default controller set.
+INFO - 2022-03-26 16:18:34 --> Router Class Initialized
+INFO - 2022-03-26 16:18:34 --> Output Class Initialized
+INFO - 2022-03-26 16:18:34 --> Security Class Initialized
+DEBUG - 2022-03-26 16:18:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:18:34 --> Input Class Initialized
+INFO - 2022-03-26 16:18:34 --> Language Class Initialized
+INFO - 2022-03-26 16:18:34 --> Language Class Initialized
+INFO - 2022-03-26 16:18:34 --> Config Class Initialized
+INFO - 2022-03-26 16:18:34 --> Loader Class Initialized
+INFO - 2022-03-26 16:18:34 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:18:34 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:18:34 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:18:34 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:18:34 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:18:34 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:18:34 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:34 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:18:34 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:34 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:18:34 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:34 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:18:34 --> Model Class Initialized
+INFO - 2022-03-26 16:18:34 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:18:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:18:34 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:18:34 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:18:34 --> Final output sent to browser
+DEBUG - 2022-03-26 16:18:34 --> Total execution time: 0.0406
+INFO - 2022-03-26 16:18:36 --> Config Class Initialized
+INFO - 2022-03-26 16:18:36 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:18:37 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:18:37 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:18:37 --> URI Class Initialized
+INFO - 2022-03-26 16:18:37 --> Router Class Initialized
+INFO - 2022-03-26 16:18:37 --> Output Class Initialized
+INFO - 2022-03-26 16:18:37 --> Security Class Initialized
+DEBUG - 2022-03-26 16:18:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:18:37 --> Input Class Initialized
+INFO - 2022-03-26 16:18:37 --> Language Class Initialized
+INFO - 2022-03-26 16:18:37 --> Language Class Initialized
+INFO - 2022-03-26 16:18:37 --> Config Class Initialized
+INFO - 2022-03-26 16:18:37 --> Loader Class Initialized
+INFO - 2022-03-26 16:18:37 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:18:37 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:18:37 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:18:37 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:18:37 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:18:37 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:18:37 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:37 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:18:37 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:37 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:18:37 --> Model Class Initialized
+DEBUG - 2022-03-26 16:18:37 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:18:37 --> Model Class Initialized
+INFO - 2022-03-26 16:18:37 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:18:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:18:37 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:18:37 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:18:37 --> Final output sent to browser
+DEBUG - 2022-03-26 16:18:37 --> Total execution time: 0.0374
+INFO - 2022-03-26 16:19:00 --> Config Class Initialized
+INFO - 2022-03-26 16:19:00 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:19:00 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:19:00 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:19:00 --> URI Class Initialized
+INFO - 2022-03-26 16:19:00 --> Router Class Initialized
+INFO - 2022-03-26 16:19:00 --> Output Class Initialized
+INFO - 2022-03-26 16:19:00 --> Security Class Initialized
+DEBUG - 2022-03-26 16:19:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:19:00 --> Input Class Initialized
+INFO - 2022-03-26 16:19:00 --> Language Class Initialized
+INFO - 2022-03-26 16:19:00 --> Language Class Initialized
+INFO - 2022-03-26 16:19:00 --> Config Class Initialized
+INFO - 2022-03-26 16:19:00 --> Loader Class Initialized
+INFO - 2022-03-26 16:19:00 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:19:00 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:19:00 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:19:00 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:19:00 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:19:00 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:19:00 --> Model Class Initialized
+DEBUG - 2022-03-26 16:19:00 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:19:00 --> Model Class Initialized
+DEBUG - 2022-03-26 16:19:00 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:19:00 --> Model Class Initialized
+DEBUG - 2022-03-26 16:19:00 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:19:00 --> Model Class Initialized
+INFO - 2022-03-26 16:19:00 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:19:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:19:00 --> Pagination Class Initialized
+INFO - 2022-03-26 16:19:09 --> Config Class Initialized
+INFO - 2022-03-26 16:19:09 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:19:09 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:19:09 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:19:09 --> URI Class Initialized
+INFO - 2022-03-26 16:19:09 --> Router Class Initialized
+INFO - 2022-03-26 16:19:09 --> Output Class Initialized
+INFO - 2022-03-26 16:19:09 --> Security Class Initialized
+DEBUG - 2022-03-26 16:19:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:19:09 --> Input Class Initialized
+INFO - 2022-03-26 16:19:09 --> Language Class Initialized
+INFO - 2022-03-26 16:19:09 --> Language Class Initialized
+INFO - 2022-03-26 16:19:09 --> Config Class Initialized
+INFO - 2022-03-26 16:19:09 --> Loader Class Initialized
+INFO - 2022-03-26 16:19:09 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:19:09 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:19:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:19:09 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:19:09 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:19:09 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:19:09 --> Model Class Initialized
+DEBUG - 2022-03-26 16:19:09 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:19:09 --> Model Class Initialized
+DEBUG - 2022-03-26 16:19:09 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:19:09 --> Model Class Initialized
+DEBUG - 2022-03-26 16:19:09 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:19:09 --> Model Class Initialized
+INFO - 2022-03-26 16:19:09 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:19:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:19:09 --> Pagination Class Initialized
+ERROR - 2022-03-26 16:19:09 --> Severity: error --> Exception: Call to undefined method CI_DB_mysqli_driver::result() D:\XAMPP\htdocs\code\talentsci\application\modules\Talents\models\TalentsDB.php 33
+ERROR - 2022-03-26 16:19:09 --> Severity: Error --> Uncaught TypeError: CI_Exceptions::show_exception(): Argument #1 ($exception) must be of type Exception, Error given, called in D:\XAMPP\htdocs\code\talentsci\system\core\Common.php on line 658 and defined in D:\XAMPP\htdocs\code\talentsci\system\core\Exceptions.php:190
+Stack trace:
+#0 D:\XAMPP\htdocs\code\talentsci\system\core\Common.php(658): CI_Exceptions->show_exception(Object(Error))
+#1 [internal function]: _exception_handler(Object(Error))
+#2 {main}
+  thrown D:\XAMPP\htdocs\code\talentsci\system\core\Exceptions.php 190
+INFO - 2022-03-26 16:19:21 --> Config Class Initialized
+INFO - 2022-03-26 16:19:21 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:19:21 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:19:21 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:19:21 --> URI Class Initialized
+INFO - 2022-03-26 16:19:21 --> Router Class Initialized
+INFO - 2022-03-26 16:19:21 --> Output Class Initialized
+INFO - 2022-03-26 16:19:21 --> Security Class Initialized
+DEBUG - 2022-03-26 16:19:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:19:21 --> Input Class Initialized
+INFO - 2022-03-26 16:19:21 --> Language Class Initialized
+INFO - 2022-03-26 16:19:21 --> Language Class Initialized
+INFO - 2022-03-26 16:19:21 --> Config Class Initialized
+INFO - 2022-03-26 16:19:21 --> Loader Class Initialized
+INFO - 2022-03-26 16:19:21 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:19:21 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:19:21 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:19:21 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:19:21 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:19:21 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:19:21 --> Model Class Initialized
+DEBUG - 2022-03-26 16:19:21 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:19:21 --> Model Class Initialized
+DEBUG - 2022-03-26 16:19:21 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:19:21 --> Model Class Initialized
+DEBUG - 2022-03-26 16:19:21 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:19:21 --> Model Class Initialized
+INFO - 2022-03-26 16:19:21 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:19:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:19:21 --> Pagination Class Initialized
+INFO - 2022-03-26 16:19:48 --> Config Class Initialized
+INFO - 2022-03-26 16:19:48 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:19:48 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:19:48 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:19:48 --> URI Class Initialized
+INFO - 2022-03-26 16:19:48 --> Router Class Initialized
+INFO - 2022-03-26 16:19:48 --> Output Class Initialized
+INFO - 2022-03-26 16:19:48 --> Security Class Initialized
+DEBUG - 2022-03-26 16:19:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:19:48 --> Input Class Initialized
+INFO - 2022-03-26 16:19:48 --> Language Class Initialized
+INFO - 2022-03-26 16:19:48 --> Language Class Initialized
+INFO - 2022-03-26 16:19:48 --> Config Class Initialized
+INFO - 2022-03-26 16:19:48 --> Loader Class Initialized
+INFO - 2022-03-26 16:19:48 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:19:48 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:19:48 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:19:48 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:19:48 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:19:48 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:19:48 --> Model Class Initialized
+DEBUG - 2022-03-26 16:19:48 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:19:48 --> Model Class Initialized
+DEBUG - 2022-03-26 16:19:48 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:19:48 --> Model Class Initialized
+DEBUG - 2022-03-26 16:19:48 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:19:48 --> Model Class Initialized
+INFO - 2022-03-26 16:19:48 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:19:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:19:48 --> Pagination Class Initialized
+INFO - 2022-03-26 16:20:41 --> Config Class Initialized
+INFO - 2022-03-26 16:20:41 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:20:41 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:20:41 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:20:41 --> URI Class Initialized
+INFO - 2022-03-26 16:20:41 --> Router Class Initialized
+INFO - 2022-03-26 16:20:41 --> Output Class Initialized
+INFO - 2022-03-26 16:20:41 --> Security Class Initialized
+DEBUG - 2022-03-26 16:20:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:20:41 --> Input Class Initialized
+INFO - 2022-03-26 16:20:41 --> Language Class Initialized
+INFO - 2022-03-26 16:20:41 --> Language Class Initialized
+INFO - 2022-03-26 16:20:41 --> Config Class Initialized
+INFO - 2022-03-26 16:20:41 --> Loader Class Initialized
+INFO - 2022-03-26 16:20:41 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:20:41 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:20:41 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:20:41 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:20:41 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:20:41 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:20:41 --> Model Class Initialized
+DEBUG - 2022-03-26 16:20:41 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:20:41 --> Model Class Initialized
+DEBUG - 2022-03-26 16:20:41 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:20:41 --> Model Class Initialized
+DEBUG - 2022-03-26 16:20:41 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:20:41 --> Model Class Initialized
+INFO - 2022-03-26 16:20:41 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:20:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:20:41 --> Pagination Class Initialized
+INFO - 2022-03-26 16:21:09 --> Config Class Initialized
+INFO - 2022-03-26 16:21:09 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:21:09 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:21:09 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:21:09 --> URI Class Initialized
+INFO - 2022-03-26 16:21:09 --> Router Class Initialized
+INFO - 2022-03-26 16:21:09 --> Output Class Initialized
+INFO - 2022-03-26 16:21:09 --> Security Class Initialized
+DEBUG - 2022-03-26 16:21:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:21:09 --> Input Class Initialized
+INFO - 2022-03-26 16:21:09 --> Language Class Initialized
+INFO - 2022-03-26 16:21:09 --> Language Class Initialized
+INFO - 2022-03-26 16:21:09 --> Config Class Initialized
+INFO - 2022-03-26 16:21:09 --> Loader Class Initialized
+INFO - 2022-03-26 16:21:09 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:21:09 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:21:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:21:09 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:21:09 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:21:09 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:21:09 --> Model Class Initialized
+DEBUG - 2022-03-26 16:21:09 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:21:09 --> Model Class Initialized
+DEBUG - 2022-03-26 16:21:09 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:21:09 --> Model Class Initialized
+DEBUG - 2022-03-26 16:21:09 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:21:09 --> Model Class Initialized
+INFO - 2022-03-26 16:21:09 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:21:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:21:09 --> Pagination Class Initialized
+INFO - 2022-03-26 16:21:50 --> Config Class Initialized
+INFO - 2022-03-26 16:21:50 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:21:50 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:21:50 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:21:50 --> URI Class Initialized
+INFO - 2022-03-26 16:21:50 --> Router Class Initialized
+INFO - 2022-03-26 16:21:50 --> Output Class Initialized
+INFO - 2022-03-26 16:21:50 --> Security Class Initialized
+DEBUG - 2022-03-26 16:21:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:21:50 --> Input Class Initialized
+INFO - 2022-03-26 16:21:50 --> Language Class Initialized
+INFO - 2022-03-26 16:21:50 --> Language Class Initialized
+INFO - 2022-03-26 16:21:50 --> Config Class Initialized
+INFO - 2022-03-26 16:21:50 --> Loader Class Initialized
+INFO - 2022-03-26 16:21:50 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:21:50 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:21:50 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:21:50 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:21:50 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:21:50 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:21:50 --> Model Class Initialized
+DEBUG - 2022-03-26 16:21:50 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:21:50 --> Model Class Initialized
+DEBUG - 2022-03-26 16:21:50 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:21:50 --> Model Class Initialized
+DEBUG - 2022-03-26 16:21:50 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:21:50 --> Model Class Initialized
+INFO - 2022-03-26 16:21:50 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:21:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:21:50 --> Pagination Class Initialized
+INFO - 2022-03-26 16:22:56 --> Config Class Initialized
+INFO - 2022-03-26 16:22:56 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:22:56 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:22:56 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:22:56 --> URI Class Initialized
+INFO - 2022-03-26 16:22:56 --> Router Class Initialized
+INFO - 2022-03-26 16:22:56 --> Output Class Initialized
+INFO - 2022-03-26 16:22:56 --> Security Class Initialized
+DEBUG - 2022-03-26 16:22:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:22:56 --> Input Class Initialized
+INFO - 2022-03-26 16:22:56 --> Language Class Initialized
+INFO - 2022-03-26 16:22:56 --> Language Class Initialized
+INFO - 2022-03-26 16:22:56 --> Config Class Initialized
+INFO - 2022-03-26 16:22:56 --> Loader Class Initialized
+INFO - 2022-03-26 16:22:56 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:22:56 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:22:56 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:22:56 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:22:56 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:22:56 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:22:56 --> Model Class Initialized
+DEBUG - 2022-03-26 16:22:56 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:22:56 --> Model Class Initialized
+DEBUG - 2022-03-26 16:22:56 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:22:56 --> Model Class Initialized
+DEBUG - 2022-03-26 16:22:56 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:22:56 --> Model Class Initialized
+INFO - 2022-03-26 16:22:56 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:22:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:22:56 --> Pagination Class Initialized
+INFO - 2022-03-26 16:24:22 --> Config Class Initialized
+INFO - 2022-03-26 16:24:22 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:24:22 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:24:22 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:24:22 --> URI Class Initialized
+INFO - 2022-03-26 16:24:22 --> Router Class Initialized
+INFO - 2022-03-26 16:24:22 --> Output Class Initialized
+INFO - 2022-03-26 16:24:22 --> Security Class Initialized
+DEBUG - 2022-03-26 16:24:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:24:22 --> Input Class Initialized
+INFO - 2022-03-26 16:24:22 --> Language Class Initialized
+INFO - 2022-03-26 16:24:22 --> Language Class Initialized
+INFO - 2022-03-26 16:24:22 --> Config Class Initialized
+INFO - 2022-03-26 16:24:22 --> Loader Class Initialized
+INFO - 2022-03-26 16:24:22 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:24:22 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:24:22 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:24:22 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:24:22 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:24:22 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:24:22 --> Model Class Initialized
+DEBUG - 2022-03-26 16:24:22 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:24:22 --> Model Class Initialized
+DEBUG - 2022-03-26 16:24:22 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:24:22 --> Model Class Initialized
+DEBUG - 2022-03-26 16:24:22 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:24:22 --> Model Class Initialized
+INFO - 2022-03-26 16:24:22 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:24:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:24:22 --> Pagination Class Initialized
+INFO - 2022-03-26 16:25:22 --> Config Class Initialized
+INFO - 2022-03-26 16:25:22 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:25:22 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:25:22 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:25:22 --> URI Class Initialized
+INFO - 2022-03-26 16:25:22 --> Router Class Initialized
+INFO - 2022-03-26 16:25:22 --> Output Class Initialized
+INFO - 2022-03-26 16:25:22 --> Security Class Initialized
+DEBUG - 2022-03-26 16:25:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:25:22 --> Input Class Initialized
+INFO - 2022-03-26 16:25:22 --> Language Class Initialized
+INFO - 2022-03-26 16:25:22 --> Language Class Initialized
+INFO - 2022-03-26 16:25:22 --> Config Class Initialized
+INFO - 2022-03-26 16:25:22 --> Loader Class Initialized
+INFO - 2022-03-26 16:25:22 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:25:22 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:25:22 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:25:22 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:25:22 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:25:22 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:25:22 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:22 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:25:22 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:22 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:25:22 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:22 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:25:22 --> Model Class Initialized
+INFO - 2022-03-26 16:25:22 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:25:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:25:22 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:25:22 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:25:22 --> Final output sent to browser
+DEBUG - 2022-03-26 16:25:22 --> Total execution time: 0.0406
+INFO - 2022-03-26 16:25:25 --> Config Class Initialized
+INFO - 2022-03-26 16:25:25 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:25:25 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:25:25 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:25:25 --> URI Class Initialized
+INFO - 2022-03-26 16:25:25 --> Router Class Initialized
+INFO - 2022-03-26 16:25:25 --> Output Class Initialized
+INFO - 2022-03-26 16:25:25 --> Security Class Initialized
+DEBUG - 2022-03-26 16:25:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:25:25 --> Input Class Initialized
+INFO - 2022-03-26 16:25:25 --> Language Class Initialized
+INFO - 2022-03-26 16:25:25 --> Language Class Initialized
+INFO - 2022-03-26 16:25:25 --> Config Class Initialized
+INFO - 2022-03-26 16:25:25 --> Loader Class Initialized
+INFO - 2022-03-26 16:25:25 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:25:25 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:25:25 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:25:25 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:25:25 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:25:25 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:25:25 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:25 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:25:25 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:25 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:25:25 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:25 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:25:25 --> Model Class Initialized
+INFO - 2022-03-26 16:25:25 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:25:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:25:25 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:25:25 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:25:25 --> Final output sent to browser
+DEBUG - 2022-03-26 16:25:25 --> Total execution time: 0.0446
+INFO - 2022-03-26 16:25:30 --> Config Class Initialized
+INFO - 2022-03-26 16:25:30 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:25:30 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:25:30 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:25:30 --> URI Class Initialized
+INFO - 2022-03-26 16:25:30 --> Router Class Initialized
+INFO - 2022-03-26 16:25:30 --> Output Class Initialized
+INFO - 2022-03-26 16:25:30 --> Security Class Initialized
+DEBUG - 2022-03-26 16:25:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:25:30 --> Input Class Initialized
+INFO - 2022-03-26 16:25:30 --> Language Class Initialized
+INFO - 2022-03-26 16:25:30 --> Language Class Initialized
+INFO - 2022-03-26 16:25:30 --> Config Class Initialized
+INFO - 2022-03-26 16:25:30 --> Loader Class Initialized
+INFO - 2022-03-26 16:25:30 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:25:30 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:25:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:25:30 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:25:30 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:25:30 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:25:30 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:30 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:25:30 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:30 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:25:30 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:30 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:25:30 --> Model Class Initialized
+INFO - 2022-03-26 16:25:30 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:25:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:25:30 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:25:30 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:25:30 --> Final output sent to browser
+DEBUG - 2022-03-26 16:25:30 --> Total execution time: 0.0398
+INFO - 2022-03-26 16:25:44 --> Config Class Initialized
+INFO - 2022-03-26 16:25:44 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:25:44 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:25:44 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:25:44 --> URI Class Initialized
+INFO - 2022-03-26 16:25:44 --> Router Class Initialized
+INFO - 2022-03-26 16:25:44 --> Output Class Initialized
+INFO - 2022-03-26 16:25:44 --> Security Class Initialized
+DEBUG - 2022-03-26 16:25:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:25:44 --> Input Class Initialized
+INFO - 2022-03-26 16:25:44 --> Language Class Initialized
+INFO - 2022-03-26 16:25:44 --> Language Class Initialized
+INFO - 2022-03-26 16:25:44 --> Config Class Initialized
+INFO - 2022-03-26 16:25:44 --> Loader Class Initialized
+INFO - 2022-03-26 16:25:44 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:25:44 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:25:44 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:25:44 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:25:44 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:25:44 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:25:44 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:44 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:25:44 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:44 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:25:44 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:44 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:25:44 --> Model Class Initialized
+INFO - 2022-03-26 16:25:44 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:25:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:25:44 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:25:44 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:25:44 --> Final output sent to browser
+DEBUG - 2022-03-26 16:25:44 --> Total execution time: 0.0389
+INFO - 2022-03-26 16:25:49 --> Config Class Initialized
+INFO - 2022-03-26 16:25:49 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:25:49 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:25:49 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:25:49 --> URI Class Initialized
+INFO - 2022-03-26 16:25:49 --> Router Class Initialized
+INFO - 2022-03-26 16:25:49 --> Output Class Initialized
+INFO - 2022-03-26 16:25:49 --> Security Class Initialized
+DEBUG - 2022-03-26 16:25:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:25:49 --> Input Class Initialized
+INFO - 2022-03-26 16:25:49 --> Language Class Initialized
+INFO - 2022-03-26 16:25:49 --> Language Class Initialized
+INFO - 2022-03-26 16:25:49 --> Config Class Initialized
+INFO - 2022-03-26 16:25:49 --> Loader Class Initialized
+INFO - 2022-03-26 16:25:49 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:25:49 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:25:49 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:25:49 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:25:49 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:25:49 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:25:49 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:49 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:25:49 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:49 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:25:49 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:49 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:25:49 --> Model Class Initialized
+INFO - 2022-03-26 16:25:49 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:25:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:25:49 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:25:49 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:25:49 --> Final output sent to browser
+DEBUG - 2022-03-26 16:25:49 --> Total execution time: 0.0400
+INFO - 2022-03-26 16:25:55 --> Config Class Initialized
+INFO - 2022-03-26 16:25:55 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:25:55 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:25:55 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:25:55 --> URI Class Initialized
+DEBUG - 2022-03-26 16:25:55 --> No URI present. Default controller set.
+INFO - 2022-03-26 16:25:55 --> Router Class Initialized
+INFO - 2022-03-26 16:25:55 --> Output Class Initialized
+INFO - 2022-03-26 16:25:55 --> Security Class Initialized
+DEBUG - 2022-03-26 16:25:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:25:55 --> Input Class Initialized
+INFO - 2022-03-26 16:25:55 --> Language Class Initialized
+INFO - 2022-03-26 16:25:55 --> Language Class Initialized
+INFO - 2022-03-26 16:25:55 --> Config Class Initialized
+INFO - 2022-03-26 16:25:55 --> Loader Class Initialized
+INFO - 2022-03-26 16:25:55 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:25:55 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:25:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:25:55 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:25:55 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:25:55 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:25:55 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:55 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:25:55 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:55 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:25:55 --> Model Class Initialized
+DEBUG - 2022-03-26 16:25:55 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:25:55 --> Model Class Initialized
+INFO - 2022-03-26 16:25:55 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:25:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:25:55 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:25:55 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:25:55 --> Final output sent to browser
+DEBUG - 2022-03-26 16:25:55 --> Total execution time: 0.0417
+INFO - 2022-03-26 16:27:30 --> Config Class Initialized
+INFO - 2022-03-26 16:27:30 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:27:30 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:27:30 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:27:30 --> URI Class Initialized
+DEBUG - 2022-03-26 16:27:30 --> No URI present. Default controller set.
+INFO - 2022-03-26 16:27:30 --> Router Class Initialized
+INFO - 2022-03-26 16:27:30 --> Output Class Initialized
+INFO - 2022-03-26 16:27:30 --> Security Class Initialized
+DEBUG - 2022-03-26 16:27:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:27:30 --> Input Class Initialized
+INFO - 2022-03-26 16:27:30 --> Language Class Initialized
+INFO - 2022-03-26 16:27:30 --> Language Class Initialized
+INFO - 2022-03-26 16:27:30 --> Config Class Initialized
+INFO - 2022-03-26 16:27:30 --> Loader Class Initialized
+INFO - 2022-03-26 16:27:30 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:27:30 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:27:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:27:30 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:27:30 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:27:30 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:27:30 --> Model Class Initialized
+DEBUG - 2022-03-26 16:27:30 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:27:30 --> Model Class Initialized
+DEBUG - 2022-03-26 16:27:30 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:27:30 --> Model Class Initialized
+DEBUG - 2022-03-26 16:27:30 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:27:30 --> Model Class Initialized
+INFO - 2022-03-26 16:27:30 --> Helper loaded: file_helper
+INFO - 2022-03-26 16:27:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-03-26 16:27:30 --> Pagination Class Initialized
+DEBUG - 2022-03-26 16:27:30 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Index.php
+INFO - 2022-03-26 16:27:30 --> Final output sent to browser
+DEBUG - 2022-03-26 16:27:30 --> Total execution time: 0.0497
+INFO - 2022-03-26 16:28:51 --> Config Class Initialized
+INFO - 2022-03-26 16:28:51 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:28:51 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:28:51 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:28:51 --> URI Class Initialized
+INFO - 2022-03-26 16:28:51 --> Router Class Initialized
+INFO - 2022-03-26 16:28:51 --> Output Class Initialized
+INFO - 2022-03-26 16:28:51 --> Security Class Initialized
+DEBUG - 2022-03-26 16:28:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:28:51 --> Input Class Initialized
+INFO - 2022-03-26 16:28:51 --> Language Class Initialized
+INFO - 2022-03-26 16:28:51 --> Language Class Initialized
+INFO - 2022-03-26 16:28:51 --> Config Class Initialized
+INFO - 2022-03-26 16:28:51 --> Loader Class Initialized
+INFO - 2022-03-26 16:28:51 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:28:51 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:28:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:28:51 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:28:51 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:28:51 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:28:51 --> Model Class Initialized
+DEBUG - 2022-03-26 16:28:51 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:28:51 --> Model Class Initialized
+DEBUG - 2022-03-26 16:28:51 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:28:51 --> Model Class Initialized
+DEBUG - 2022-03-26 16:28:51 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:28:51 --> Model Class Initialized
+INFO - 2022-03-26 16:28:51 --> Helper loaded: file_helper
+DEBUG - 2022-03-26 16:28:51 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Create.php
+INFO - 2022-03-26 16:28:51 --> Final output sent to browser
+DEBUG - 2022-03-26 16:28:51 --> Total execution time: 0.0330
+INFO - 2022-03-26 16:29:15 --> Config Class Initialized
+INFO - 2022-03-26 16:29:15 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:29:15 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:29:15 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:29:15 --> URI Class Initialized
+INFO - 2022-03-26 16:29:15 --> Router Class Initialized
+INFO - 2022-03-26 16:29:15 --> Output Class Initialized
+INFO - 2022-03-26 16:29:15 --> Security Class Initialized
+DEBUG - 2022-03-26 16:29:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:29:15 --> Input Class Initialized
+INFO - 2022-03-26 16:29:15 --> Language Class Initialized
+INFO - 2022-03-26 16:29:15 --> Language Class Initialized
+INFO - 2022-03-26 16:29:15 --> Config Class Initialized
+INFO - 2022-03-26 16:29:15 --> Loader Class Initialized
+INFO - 2022-03-26 16:29:15 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:29:15 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:29:15 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:29:15 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:29:15 --> Welcome MX_Controller Initialized
+INFO - 2022-03-26 16:29:15 --> Final output sent to browser
+DEBUG - 2022-03-26 16:29:15 --> Total execution time: 0.0387
+INFO - 2022-03-26 16:32:46 --> Config Class Initialized
+INFO - 2022-03-26 16:32:46 --> Hooks Class Initialized
+DEBUG - 2022-03-26 16:32:46 --> UTF-8 Support Enabled
+INFO - 2022-03-26 16:32:46 --> Utf8 Class Initialized
+INFO - 2022-03-26 16:32:46 --> URI Class Initialized
+INFO - 2022-03-26 16:32:46 --> Router Class Initialized
+INFO - 2022-03-26 16:32:46 --> Output Class Initialized
+INFO - 2022-03-26 16:32:46 --> Security Class Initialized
+DEBUG - 2022-03-26 16:32:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-03-26 16:32:46 --> Input Class Initialized
+INFO - 2022-03-26 16:32:46 --> Language Class Initialized
+INFO - 2022-03-26 16:32:46 --> Language Class Initialized
+INFO - 2022-03-26 16:32:46 --> Config Class Initialized
+INFO - 2022-03-26 16:32:46 --> Loader Class Initialized
+INFO - 2022-03-26 16:32:46 --> Helper loaded: url_helper
+INFO - 2022-03-26 16:32:46 --> Database Driver Class Initialized
+INFO - 2022-03-26 16:32:46 --> Session: Class initialized using 'files' driver.
+INFO - 2022-03-26 16:32:46 --> Controller Class Initialized
+DEBUG - 2022-03-26 16:32:46 --> Talents MX_Controller Initialized
+INFO - 2022-03-26 16:32:46 --> Helper loaded: form_helper
+INFO - 2022-03-26 16:32:46 --> Model Class Initialized
+DEBUG - 2022-03-26 16:32:46 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Talentsdb.php
+INFO - 2022-03-26 16:32:46 --> Model Class Initialized
+DEBUG - 2022-03-26 16:32:46 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Photoprofiledb.php
+INFO - 2022-03-26 16:32:46 --> Model Class Initialized
+DEBUG - 2022-03-26 16:32:46 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/models/Categorydb.php
+INFO - 2022-03-26 16:32:46 --> Model Class Initialized
+INFO - 2022-03-26 16:32:46 --> Helper loaded: file_helper
+DEBUG - 2022-03-26 16:32:46 --> File loaded: D:\XAMPP\htdocs\code\talentsci\application\modules/talents/views/Create.php
+INFO - 2022-03-26 16:32:46 --> Final output sent to browser
+DEBUG - 2022-03-26 16:32:46 --> Total execution time: 0.0413

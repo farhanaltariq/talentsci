@@ -24,8 +24,11 @@ class TalentsDB extends CI_Model {
         return $query->num_rows();
     }
     public function search($keyword) {
-        $query = $this->db->like('name', $keyword)->get('talent');
-        return $query->result();
+        $query = $this->db->select('*')
+        ->from('talent')
+        ->join('category', 'talent.id_category = category.id')
+        ->like('name_category', $keyword)->or_like('name', $keyword);
+        return $query->get()->result();
     }
     public function countSearch($keyword){
         $this->db->like('name', $keyword);
