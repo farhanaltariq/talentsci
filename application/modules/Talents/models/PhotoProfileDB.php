@@ -24,6 +24,10 @@ class PhotoProfileDB extends CI_Model {
         $this->db->where('id', $id);
         $this->db->delete('photo_profile');
     }
+    public function update($id, $data) {
+        $this->db->where('id', $id);
+        $this->db->update('photo_profile', $data);
+    }
 }
 
 ?>
