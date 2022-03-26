@@ -6,7 +6,7 @@ class PhotoProfileDB extends CI_Model {
         $this->load->database();
     }
     public function insert($data) {
-        $this->db->insert('category', $data);
+        $this->db->insert('photo_profile', $data);
     }
     public function get_picture($id) {
         $this->db->where('id', $id);
