@@ -6,20 +6,21 @@
             <div class="col-md-12 mt-1">
                 <div class="card pb-2">
                     <div class="card-header">
-                        <h3 class="card-title">Details</h3>
+                        <h3 class="card-title">Edit</h3>
                     </div>
                     <div class="card-body">
                         <?php echo form_open_multipart('talents/update/' . $talent->id); ?>
+
                         <div class="row">
                             <div class="col-md-12 mt-1">
-                                <img src="<?= base_url('assets/img/talent/') . $talent->id_photo_profile ?? null ?>" alt="" width="100px">
+                                <img src="<?= base_url('assets/talent_img/'. $talent->photo_profile) ?? null ?>" alt="" width="100px" style="float: right">
                             </div>
                             <div class="col-md-12 mt-1">
                                 <div class="row">
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label for="name">Name</label>
-                                            <input name="name" type="text" class="form-control" id="name" value="<?= $talent->name ?>">
+                                            <input required name="name" type="text" class="form-control" id="name" value="<?= $talent->name ?>">
                                         </div>
                                     </div>
                                 </div>
@@ -27,7 +28,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label for="name">Email</label>
-                                            <input name="email" type="text" class="form-control" id="name" value="<?= $talent->email ?>">
+                                            <input required name="email" type="text" class="form-control" id="name" value="<?= $talent->email ?>">
                                         </div>
                                     </div>
                                 </div>
@@ -35,7 +36,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label for="name">Phone Number</label>
-                                            <input name="phone_number" type="text" class="form-control" id="name" value="<?= $talent->phone_number ?>">
+                                            <input required name="phone_number" type="text" class="form-control" id="name" value="<?= $talent->phone_number ?>">
                                         </div>
                                     </div>
                                 </div>
@@ -43,7 +44,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label for="name">Age</label>
-                                            <input name="age" type="number" class="form-control" id="name" value="<?= $talent->age ?>">
+                                            <input required name="age" type="number" class="form-control" id="name" value="<?= $talent->age ?>">
                                         </div>
                                     </div>
                                 </div>
@@ -77,7 +78,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label for="skills">Skills</label>
-                                            <input name="skills" type="text" class="form-control" id="skills" value="<?= $talent->skills ?>">
+                                            <input required name="skills" type="text" class="form-control" id="skills" value="<?= $talent->skills ?>">
                                         </div>
                                     </div>
                                 </div>
@@ -85,7 +86,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label for="location">Location</label>
-                                            <input name="location" type="text" class="form-control" id="location" value="<?= $talent->location ?>">
+                                            <input required name="location" type="text" class="form-control" id="location" value="<?= $talent->location ?>">
                                         </div>
                                     </div>
                                 </div>
@@ -102,7 +103,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label >Upload Picture</label>
-                                            <input name="photo_profile" name="photo_profile" type="file" class="form-control">
+                                            <input required name="photo_profile" name="photo_profile" type="file" class="form-control">
                                         </div>
                                     </div>
                                 </div>

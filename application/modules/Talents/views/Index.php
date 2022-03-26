@@ -1,11 +1,10 @@
 <?php include_once('bootstrap.php'); ?>
-
 <body>
     <div class="container mt-5">
         <div class="row text-end mb-3 ms-auto" style="float: left">
             <div class="container">
                 <a href="<?= base_url('talents/create\/'); ?>" class="btn btn-primary">Add Data +</a>
-                <a href="<?= base_url('talents/dataFaker\/'); ?>" class="btn btn-warning">Use Faker</a>
+                <a href="<?= base_url('talents/faker/dataFaker\/'); ?>" class="btn btn-warning">Use Faker</a>
                 <?php 
                     $path = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                     $check = $path == base_url('talents/index/') || $path == base_url();
@@ -25,7 +24,7 @@
             </form>
         </div>
 		
-        <?php if(isset($_SESSION['message'])): ?>
+        <!-- <?php if(isset($_SESSION['message'])): ?>
             <br><br>
             <div class="container">
                 <div class="alert alert-success">
@@ -33,10 +32,9 @@
                 </div>
             </div>
         <?php 
-            session_unset();
-
+            session_destroy();
             endif; 
-        ?>
+        ?> -->
 
         <div class="container">
         <table class="table table-striped">
@@ -54,7 +52,7 @@
             <tr>
                 <td><?= ++$start ?></td>
                 <td><?= $talent->name ?></td>
-                <td><img src="x" alt="" width="50px" height="50px"></td>
+                <td><img src="<?= base_url('assets/talent_img/'. $talent->photo_profile) ?>" alt="" width="50px" height="50px"></td>
                 <td><?= $talent->category ?></td>
                 <td><?= $talent->skills ?></td>
                 <td class="text-center">

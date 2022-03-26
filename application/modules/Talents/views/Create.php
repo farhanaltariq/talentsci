@@ -9,7 +9,7 @@
                         <h3 class="card-title">Create Data</h3>
                     </div>
                     <form action="<?= base_url('talents/store');?>" method="post" enctype="multipart/form-data" >
-                    <input type="hidden" name="<?php echo $this->security->get_csrf_token_name(); ?>" value="<?php echo $this->security->get_csrf_hash(); ?>">
+                    <input required type="hidden" name="<?php echo $this->security->get_csrf_token_name(); ?>" value="<?php echo $this->security->get_csrf_hash(); ?>">
 
                     <div class="card-body">
                         <div class="row">
@@ -18,7 +18,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label >Name</label>
-                                            <input name="name" type="text" class="form-control">
+                                            <input required name="name" type="text" class="form-control">
                                         </div>
                                     </div>
                                 </div>
@@ -26,7 +26,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label >Email</label>
-                                            <input name="email" type="text" class="form-control">
+                                            <input required name="email" type="text" class="form-control">
                                         </div>
                                     </div>
                                 </div>
@@ -34,7 +34,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label >Phone Number</label>
-                                            <input name="phone_number" type="text" class="form-control">
+                                            <input required name="phone_number" type="text" class="form-control">
                                         </div>
                                     </div>
                                 </div>
@@ -42,7 +42,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label >Age</label>
-                                            <input name="age" type="number" class="form-control">
+                                            <input required name="age" type="number" class="form-control">
                                         </div>
                                     </div>
                                 </div>
@@ -73,7 +73,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label for="skills">Skills</label>
-                                            <input name="skills" type="text" class="form-control" id="skills">
+                                            <input required name="skills" type="text" class="form-control" id="skills">
                                         </div>
                                     </div>
                                 </div>
@@ -81,7 +81,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label for="location">Location</label>
-                                            <input name="location" type="text" class="form-control" id="location">
+                                            <input required name="location" type="text" class="form-control" id="location">
                                         </div>
                                     </div>
                                 </div>
@@ -98,7 +98,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label >Upload Picture</label>
-                                            <input type="file" name="photo_profile" class="form-control" size="20">
+                                            <input required type="file" name="photo_profile" class="form-control" size="20">
                                         </div>
                                     </div>
                                 </div>
