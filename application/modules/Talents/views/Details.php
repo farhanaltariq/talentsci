@@ -92,7 +92,7 @@
                             </div>
                         </div>
                         <div class="container text-end">
-                            <a class="btn btn-dark ms-3" href="<?= $_SERVER['HTTP_REFERER']; ?>">Return</a>
+                            <a class="btn btn-dark ms-3" href="<?= $_SERVER['HTTP_REFERER'] ?? base_url(); ?>">Return</a>
                         </div>
                     </div>
                 </div>

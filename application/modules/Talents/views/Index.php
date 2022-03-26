@@ -7,7 +7,7 @@
                 <a href="<?= base_url('talents/faker/dataFaker\/'); ?>" class="btn btn-warning">Use Faker</a>
                 <?php 
                     $path = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
-                    $check = $path == base_url('talents/index/') || $path == base_url();
+                    $check = $path == base_url('talents/') || $path == base_url();
                     if(!$check)
                         echo '<a href="' . base_url() . '" class="btn btn-success">Home</a>';
                 ?>
@@ -24,17 +24,17 @@
             </form>
         </div>
 		
-        <!-- <?php if(isset($_SESSION['message'])): ?>
+        <?php if(isset($message)): ?>
             <br><br>
             <div class="container">
                 <div class="alert alert-success">
-                    <?= $_SESSION['message']; ?>
+                    <?= $message; ?>
                 </div>
             </div>
         <?php 
             session_destroy();
             endif; 
-        ?> -->
+        ?>
 
         <div class="container">
         <table class="table table-striped">

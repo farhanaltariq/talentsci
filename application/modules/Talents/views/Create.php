@@ -97,7 +97,7 @@
                                 <div class="row">
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
-                                            <label >Upload Picture</label>
+                                            <label >Upload Picture | Supported file : jpg, png, jpeg, webp</label>
                                             <input type="file" name="photo_profile" class="form-control" size="20">
                                         </div>
                                     </div>
@@ -107,7 +107,7 @@
                         
                         <div class="container text-end mt-3">
                             <button type="submit" class="btn btn-primary ms-3">Save</button>
-                            <a class="btn btn-dark ms-3" href="<?= $_SERVER['HTTP_REFERER'];?>">Return</a>
+                            <a class="btn btn-dark ms-3" href="<?= $_SERVER['HTTP_REFERER'] ?? base_url();?>">Return</a>
                         </div>
                     </div>
                     </form>
