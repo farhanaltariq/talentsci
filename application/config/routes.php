@@ -67,3 +67,7 @@ $route['talents/update'] = 'talents/update';
 $route['talents/delete/(:any)'] = 'talents/delete/$1';
 
 $route['talents/dataFaker'] = 'talents/dataFaker';
+
+$route['talents/faker/dataFaker'] = 'talents/faker/dataFaker';
+
+$route['welcome/test'] = 'welcome/test';
