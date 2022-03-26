@@ -9,6 +9,7 @@ class Talents extends MX_Controller {
         $this->load->model('TalentsDB');
         $this->load->model('PhotoProfileDB');
         $this->load->model('CategoryDB');
+        $this->load->helper("file");
     }
 
     // Index with pagination
@@ -69,13 +70,13 @@ class Talents extends MX_Controller {
     }
 
     public function delete($id){
-        $pict_name = $this->PhotoProfileDB->get_picture($id);
+        $pict_name = $this->PhotoProfileDB->get_picture($this->TalentsDB->get_details($id)->id_photo_profile);
         if($pict_name != null){
-            $pict_name = $pict_name->name;
-            $path = './assets/talent_img'.$pict_name;
-            echo $path; exit;
+            $path = './assets/talent_img/'.$pict_name;
+            delete_files($path);
             unlink($path);
         }
+        $this->PhotoProfileDB->delete($this->TalentsDB->get_details($id)->id_photo_profile);
         $this->TalentsDB->delete($id);
         $_SESSION['message'] = "Data Deleted";
         redirect('talents');
@@ -89,7 +90,7 @@ class Talents extends MX_Controller {
         // if has file
         if(!empty($_FILES['photo_profile']['name'])){
             $config['upload_path'] = './assets/talent_img/';
-            $config['allowed_types'] = 'jpg|png|jpeg';
+            $config['allowed_types'] = 'jpg|png|jpeg|webp';
             $config['max_size'] = '2048';
             $config['file_name'] = $_FILES['photo_profile']['name'];
             $this->load->library('upload', $config);
@@ -97,13 +98,13 @@ class Talents extends MX_Controller {
                 $uploadData = $this->upload->data();
                 $img['photo_profile'] = $uploadData['file_name'];
                 $this->PhotoProfileDB->insert($img);
+                $data['id_photo_profile'] = $this->PhotoProfileDB->last_id();
             }
         }
         $data['name'] = $this->input->post('name');
         $data['email'] = $this->input->post('email');
         $data['phone_number'] = $this->input->post('phone_number');
         $data['age'] = $this->input->post('age');
-        $data['id_photo_profile'] = $this->PhotoProfileDB->last_id()+1;
         $data['gender'] = $this->input->post('gender');
         $data['skills'] = $this->input->post('skills');
         $data['location'] = $this->input->post('location');
@@ -130,13 +131,47 @@ class Talents extends MX_Controller {
         $data['email'] = $this->input->post('email');
         $data['phone_number'] = $this->input->post('phone_number');
         $data['age'] = $this->input->post('age');
-        $data['id_photo_profile'] = $this->PhotoProfileDB->last_id();
         $data['gender'] = $this->input->post('gender');
         $data['skills'] = $this->input->post('skills');
         $data['location'] = $this->input->post('location');
         $data['aboutme'] = $this->input->post('aboutme');
         $data['id_category'] = $this->input->post('category');
         $this->TalentsDB->update($id, $data);
+        
+        if(!empty($_FILES['photo_profile']['name'])){
+            $config['upload_path'] = './assets/talent_img/';
+            $config['allowed_types'] = 'jpg|png|jpeg|webp';
+            $config['max_size'] = '2048';
+            $config['file_name'] = $_FILES['photo_profile']['name'];
+            $this->load->library('upload', $config);
+
+            $pictId = $this->TalentsDB->get_details($id)->id_photo_profile;
+            // if talent already have photo profile
+            if($this->PhotoProfileDB->get_picture($pictId) != null){
+                // if file exists in folder
+                $path = './assets/talent_img/'.$this->PhotoProfileDB->get_picture($pictId);
+                if(file_exists($path)){
+                    delete_files($path);
+                    unlink($path);
+                }
+
+                // update photo profile
+                if($this->upload->do_upload('photo_profile')){
+                    $uploadData = $this->upload->data();
+                    $img['photo_profile'] = $uploadData['file_name'];
+                    $this->PhotoProfileDB->update($pictId, $img);
+                }
+            } else{
+                // insert photo profile
+                if($this->upload->do_upload('photo_profile')){
+                    $uploadData = $this->upload->data();
+                    $img['photo_profile'] = $uploadData['file_name'];
+                    $this->PhotoProfileDB->insert($img);
+                    $data['id_photo_profile'] = $this->PhotoProfileDB->last_id();
+                }
+                $this->TalentsDB->update($id, $data);
+            }
+        }
 
         $_SESSION['message'] = "Data Updated";
         redirect('talents');
