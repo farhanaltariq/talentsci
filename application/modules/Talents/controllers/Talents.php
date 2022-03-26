@@ -86,7 +86,7 @@ class Talents extends MX_Controller {
             $this->PhotoProfileDB->delete($this->TalentsDB->get_details($id)->id_photo_profile);
         $this->TalentsDB->delete($id);
         $_SESSION['message'] = "Data Deleted";
-        redirect('talents');
+        redirect($_SERVER['HTTP_REFERER'] ?? 'talents');
     }
 
     public function create(){
@@ -107,7 +107,8 @@ class Talents extends MX_Controller {
                 $this->PhotoProfileDB->insert($img);
                 $data['id_photo_profile'] = $this->PhotoProfileDB->last_id();
             }
-        }
+        } else 
+            $data['id_photo_profile'] = 1;
         $data['name'] = $this->input->post('name');
         $data['email'] = $this->input->post('email');
         $data['phone_number'] = $this->input->post('phone_number');
@@ -116,7 +117,7 @@ class Talents extends MX_Controller {
         $data['skills'] = $this->input->post('skills');
         $data['location'] = $this->input->post('location');
         $data['aboutme'] = $this->input->post('aboutme');
-        $data['id_category'] = $this->input->post('id_category') == null ? 1 : $this->input->post('id_category');
+        $data['id_category'] = $this->input->post('category') == null ? 1 : $this->input->post('category');
 
         $this->TalentsDB->insert($data);
         redirect('talents');
