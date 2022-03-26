@@ -11,7 +11,7 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-12 mt-1">
-                                <img src="<?= base_url('assets/img/talent/') . $talent->id_photo_profile ?? null ?>" alt="" width="100px">
+                                <img src="<?= base_url('assets/talent_img/'. $talent->photo_profile) ?? null ?>" alt="" width="100px" style="float: right">
                             </div>
                             <div class="col-md-12 mt-1">
                                 <div class="row">
@@ -50,7 +50,7 @@
                                     <div class="col-md-12 mt-1">
                                         <div class="form-group">
                                             <label for="category">Category</label>
-                                            <input type="text" class="form-control" id="category" value="<?= $talent->id_category ?>" disabled>
+                                            <input type="text" class="form-control" id="category" value="<?= $talent->category ?>" disabled>
                                         </div>
                                     </div>
                                 </div>
