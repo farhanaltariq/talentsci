@@ -4,28 +4,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class Talents extends MX_Controller {
     public function __construct(){
         parent::__construct();
+        $this->load->helper('form');
+        $this->load->library('session');
         $this->load->model('TalentsDB');
         $this->load->model('PhotoProfileDB');
         $this->load->model('CategoryDB');
-    }
-    public function dataFaker(){
-        include APPPATH . '/third_party/faker/src/autoload.php';
-        $faker = Faker\Factory::create('id_ID');
-        for($i=0;$i<10;$i++){
-            $data['name'] = $faker->name;
-            $data['email'] = $faker->email;
-            $data['phone_number'] = $faker->phoneNumber;
-            $data['age'] = $faker->numberBetween(18,50);
-            $data['id_photo_profile'] = $this->PhotoProfileDB->last_id();
-            $data['gender'] = $faker->randomElement(['Male','Female']);
-            $data['skills'] = $faker->randomElement(['Hunting', 'Drone']);
-            $data['location'] = $faker->city;
-            $data['id_category'] = $faker->numberBetween(1,10);
-            $data['aboutme'] = $faker->text;
-            $this->TalentsDB->insert($data);
-        }
-        $_SESSION['message'] = "Data Faker Success";
-        redirect('talents');
     }
 
     // Index with pagination
@@ -36,7 +19,6 @@ class Talents extends MX_Controller {
         $config['per_page'] = 10;
         $config['uri_segment'] = 3;
         $config['num_links'] = 2;
-        $config['use_page_numbers'] = TRUE;
         $config['full_tag_open'] = '<nav><ul class="pagination justify-content-center">';
         $config['full_tag_close'] = '</ul></nav>';
         $config['first_link'] = 'First';
@@ -58,12 +40,13 @@ class Talents extends MX_Controller {
         $config['attributes'] = array('class' => 'page-link');
         $this->pagination->initialize($config);
         $data['pagination'] = $this->pagination->create_links();
-        $data['talents'] = $this->TalentsDB->get_talents($config['per_page'], $this->uri->segment(3));
         $data['start'] = $this->uri->segment(3);
+        $data['talents'] = $this->TalentsDB->get_talents($config['per_page'], $data['start']);
         foreach ($data['talents'] as $talent) {
-            $talent->photo_profile = $this->PhotoProfileDB->get_picture($talent->id);
+            $talent->photo_profile = $this->PhotoProfileDB->get_picture($talent->id_photo_profile);
             $talent->category = $this->CategoryDB->get_category($talent->id_category);
         }
+        $_SESSION['message'] = "Data Added";
         $this->load->view('Index', $data);
     }
 
@@ -80,12 +63,19 @@ class Talents extends MX_Controller {
 
     public function details($id){
         $data['talent'] = $this->TalentsDB->get_details($id);
-        $data['talent']->photo_profile = $this->PhotoProfileDB->get_picture($id);
+        $data['talent']->photo_profile = $this->PhotoProfileDB->get_picture($data['talent']->id_photo_profile);
         $data['talent']->category = $this->CategoryDB->get_category($data['talent']->id_category);
         $this->load->view('Details', $data);
     }
 
     public function delete($id){
+        $pict_name = $this->PhotoProfileDB->get_picture($id);
+        if($pict_name != null){
+            $pict_name = $pict_name->name;
+            $path = './assets/talent_img'.$pict_name;
+            echo $path; exit;
+            unlink($path);
+        }
         $this->TalentsDB->delete($id);
         $_SESSION['message'] = "Data Deleted";
         redirect('talents');
@@ -96,12 +86,29 @@ class Talents extends MX_Controller {
         $this->load->view('Create', $data);
     }
     public function store(){
+        // if has file
+        if(!empty($_FILES['photo_profile']['name'])){
+            $config['upload_path'] = './assets/talent_img/';
+            $config['allowed_types'] = 'jpg|png|jpeg';
+            $config['max_size'] = '2048';
+            $config['file_name'] = $_FILES['photo_profile']['name'];
+            $this->load->library('upload', $config);
+            if($this->upload->do_upload('photo_profile')){
+                $uploadData = $this->upload->data();
+                $img['photo_profile'] = $uploadData['file_name'];
+                $this->PhotoProfileDB->insert($img);
+            }
+        }
         $data['name'] = $this->input->post('name');
         $data['email'] = $this->input->post('email');
         $data['phone_number'] = $this->input->post('phone_number');
         $data['age'] = $this->input->post('age');
-        $data['id_photo_profile'] = $this->PhotoProfileDB->last_id();
+        $data['id_photo_profile'] = $this->PhotoProfileDB->last_id()+1;
         $data['gender'] = $this->input->post('gender');
+        $data['skills'] = $this->input->post('skills');
+        $data['location'] = $this->input->post('location');
+        $data['aboutme'] = $this->input->post('aboutme');
+        $data['id_category'] = $this->input->post('id_category') == null ? 1 : $this->input->post('id_category');
 
         $this->TalentsDB->insert($data);
         redirect('talents');
@@ -109,8 +116,12 @@ class Talents extends MX_Controller {
 
     public function edit($id){
         $data['talent'] = $this->TalentsDB->get_details($id);
-        $data['talent']->photo_profile = $this->PhotoProfileDB->get_picture($id);
-        $data['talent']->category = $this->CategoryDB->get_category($data['talent']->id_category);
+        if(!$data['talent']){
+            show_404();
+            exit;
+        }
+        $data['talent']->photo_profile = $this->PhotoProfileDB->get_picture($data['talent']->id_photo_profile);
+        $data['categories'] = $this->CategoryDB->get_all_categories();
         $this->load->view('Edit', $data);
     }
 
@@ -121,6 +132,14 @@ class Talents extends MX_Controller {
         $data['age'] = $this->input->post('age');
         $data['id_photo_profile'] = $this->PhotoProfileDB->last_id();
         $data['gender'] = $this->input->post('gender');
+        $data['skills'] = $this->input->post('skills');
+        $data['location'] = $this->input->post('location');
+        $data['aboutme'] = $this->input->post('aboutme');
+        $data['id_category'] = $this->input->post('category');
+        $this->TalentsDB->update($id, $data);
+
+        $_SESSION['message'] = "Data Updated";
+        redirect('talents');
     }
     
 }
