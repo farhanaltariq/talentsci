@@ -17,7 +17,7 @@ class Faker extends MX_Controller {
             $data['email'] = $faker->email;
             $data['phone_number'] = $faker->phoneNumber;
             $data['age'] = $faker->numberBetween(18,50);
-            $data['id_photo_profile'] = $this->PhotoProfileDB->last_id();
+            $data['id_photo_profile'] = $this->PhotoProfileDB->last_id() ?? 0;
             $data['gender'] = $faker->randomElement(['Male','Female']);
             $data['location'] = $faker->city;
             $data['id_category'] = $faker->numberBetween(1,5);
